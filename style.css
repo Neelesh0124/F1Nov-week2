@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+#navbar>h4{
+    color: white ;
+}
+.nav-container{
+    height: 60px;
+    width: 50%;
+    margin: auto;
+    
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+}
